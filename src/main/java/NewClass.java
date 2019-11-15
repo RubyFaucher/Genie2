@@ -10,5 +10,5 @@
  */
 public class NewClass {
     //JPPPPPPPPPP
-    //MMZDLMBLEMRLBRLB
+    //EGBERVEVRV
 }
